@@ -1,0 +1,77 @@
+---
+title: "Arbeidskrav 5 - Study Design"
+output: pdf_document
+line-spacing: 1.5
+date: "2023-11-04"
+number_page: true
+geometry: margin=1in
+fontsize: 12pt
+---
+
+## **Arbeidskrav 5 - Study Design**
+
+Eg har valgt å analysere fem originalartiklar som ser på effekten av ulike styrketreningsvolum på utvikling av maksimal styrke og hypertrofi. Dei fem artiklane eg har valgt å analysere er Brigatto et al., 2019 (1), Ostrowski et al., 1997 (2), Rhea et al., 2002 (3), Schoenfeld et al., 2019 (4) og Aube et al., 2020 (5).
+
+**Generelt om studiane**
+
+Alle dei fem studiane er randomiserte, kontrollerte studiar (RCT) med ei intervensjonslengd på 8, 10 eller 12 veker. Intervensjonen var for alle studiane treningsprogram med ulike volum for to (3) eller tre (1,2,4,5) intervensjonsgrupper. Ingen av studiane hadde kontrollgruppe. Alle studiane var utført på relativt unge menn (18-35 år) med treningsbakgrunn innan styrketrening. Vidare utførte alle studiane eitt eller fleire mål på maksimal styrke ved baseline og etter intervensjon. I tillegg målte alle studiane, utanom Rhea et al. (3), også muskelmasse ved baseline og etter intervensjon. Rhea et al. (3) evaluerte utfallsvariablane også halvvegs i intervensjonen.
+
+**Diskusjon av metode og studiedesign**
+
+Alle dei fem studiane var gjennomført som parallellgruppestudiar, som er ei form for RCT-studie. RCT-studiar er rekna som gullstandarden innan primærstudiar, ettersom den, i motsetnad til observasjonelle studiar, kan seie noko kausalitet (6). Det vil seie at RCT studiar i tillegg til å finne skilnadar i utfallsvariablar mellom og innad i ulike grupper også kan seie noko om årsaken til skilnaden. Dette kan sjåast som ein styrke ved studiedesignet til dei fem studiane.
+
+Ideelt sett skal RCT studiar vere dobbelt blinda. Det vil sei at både dei som mottar og dei som gjev ein intervensjon ikkje skal vite hvilken, dersom nokon, intervensjon som blir motteke eller gjeve (6). Ettersom deltakarane og forskarane i studiane eg har valgt må vite kva intervensjon som blir brukt for å kunne gjennomføre studien, kan dobbel blinding vere utfordrande å gjennomføre. Kun éin av studiane (5) blinda forskarane som utførte målingar på utfallsvariablane for intervensjonsgruppene. Ingen av studiane brukte blinding på deltakarane. Problemet med å ikkje bruke blinding, er at forskarane underbevisst til dømes kan overestimere effekten for gruppene med høgt treningsvolum og/eller underestimere effekten for gruppene med lågt treningsvolum. Vidare kan mangel av blinding på deltakarane påvirke til dømes åtferd, treningsinnsats eller føre til placebo-efffekt, noko som i sin tur kan verke inn på resultatet (6).
+
+Vidare kan det tekjast at studiane med fordel kunne inkludert ei kontroll gruppe utan intervensjon, for å kontrollere om deltaking på pre-testen i seg sjølv -- eller andre forhold deltaking i studien fører med seg - betra resultatet på post-testen.
+
+Ingen av studiane hadde deltakarar eldre enn 35 år. Ettersom muskelmasse vanlegvis aukar naturleg fram til ein er omtrent 30 år gamle (7,8), kan vi ikkje ekskludere at dette kan forklare noko av den estimerte effekten av intervensjonen i studiane, noko som også kan vere eit argument for å inkludere ei kontrollgruppe.
+
+Det spesifikke utvalet i dei fem studiane kan sjåast både positivt og negativt. Det er positivt i den forstand at resultata blir spesifikke for den populasjonen utvalet er henta frå (styrke-trente menn i alderen 18-35 år). På den andre sida fører det spesifikke utvalet til at vi ikkje kan vere sikre på om resultata kan anvendast for den øvrige befolkinga, dvs. for til dømes kvinner, utrente og personar under 18 år eller over 35 år.
+
+Vidare kan ein stille spørsmål ved den relativt korte intervensjonsperioden. Som tidlegare nevnt, hadde studiane ein intervensjonsperiode på mellom 8 og 12 veker. Samtlege studiar var gjort på menn som har drive med styrketrening i minst eitt år, og fleire av deltakarane hadde drive med styrketrening vesentleg lenger enn dette. Ifølgje ein studie frå 2019 (9), avtar hypertrofi og styrkegevinstar desto betre trena ein er. Ein lenger intervensjonsperiode kunne difor kanskje vore fordelaktig for å auke ein eventuell skilnad mellom intervensjonsgruppene og dermed redusere risikoen for at tilfeldigheiter verkar inn på resultatet. Ufordelen ved å gjere intervensjonsperioden lenger, er at studien blir meir ressurskrevjande å gjennomføre, samt. at det kanskje blir vanskelegare å rekruttere deltakarar.
+
+**Måling av utfallsvariablar**
+
+Metode for å evaluere utfallsvariabel var ganske like mellom studiane. Alle studiane brukte «éin repitisjon maksimum» (1RM) med frivekter for å måle maksimal styrke. 1RM går ut på å løfte ei så tung vekt som ein klarar éin gong. Tre av studiane (1,2,4) målte 1RM for knebøy og benkpress, éin studie (3) målte 1RM for knebøy og beinpress, medan den siste studien (5) målte 1RM kun for knebøy.
+
+Å bruke 1RM med frivekter for å teste maksimal styrke kan kanskje ha nokre avgrensingar. For det første er bruk av frivekter avhengig av teknikk. Dersom ein har god teknikk, kan det tenkjast at ein kan løfte meir vekt enn nokon som har dårleg teknikk, sjølv om kraftutviklinga er den same. Ettersom ein ikkje kan vere sikre på at deltakarane i studiane hadde identisk teknikk ved pre- og posttestane, er det mogleg at dette kan ha verka inn på resultatet.
+
+Eit alternativ til frivekter, er dynamometer. Dynamometer er elektroniske apparat som måler kraft. Dynamometer har i over 40 år vorte sett på som gullstandarden for å måle maksimal styrke (10). Trass dette, fann ein studie frå 2021 (11) ein signifikant korrelasjon mellom resultat frå dynamometer og 1RM i knebøy. Ein fordel med dynamometer er likevel at ein kan isolere enkelte muskelgrupper i større grad enn ein kan med frivekter, noko som ville auka spesifisiteten til testane.
+
+I tillegg til å måle maksimal styrke, hadde fire av studiane (1,2,4,5) også utfallsvariablar på muskelmasse. Alle desse fire studiane brukte ultralyd for å måle muskelmasse. Ein kan stilje spørsmål ved valet med å bruke ultralyd, ettersom MRI er rekna som gullstandarden for å måle endringar i muskelmasse (12). På den andre sida fant ein studie publisert i 2021 (12) at målingar av muskelmasse frå ultralyd var signifikant korrelert med målingar frå MRI. Trass dette, kan ein argumentere for at resultata kanskje ville vere noko meir pålitelege dersom MRI vart nytta istadenfor ultralyd. Ufordelen med MRI er at det er svært kostnads- og ressurskrevjande.
+
+**Statistiske testar**
+
+Alle studiane brukte statistiske analyser for å kvantifisere endring i maksimal styrke og muskelmasse for kvar gruppe og mellom gruppene. Nokre av studiane hadde analyser for ytterlegare variablar, men eg har valgt å sjå vekk frå desse i denne rapporten ettersom det ikkje er relevant for mi problemstilling. Brigatto et al. (1) brukte ANOVA for å kvantifisere effekten av intervensjonen innad og mellom gruppene, medan Ostrowski et al. (2) brukte MANOVA, Scheffe post hoc og Peason product moment correlations, Rhea et al. (3) brukte ei variansanalyse og Turkey\'s post hoc, Schoenfeld et al. (4) brukte ANCOVA og JZS Bayes Factor ANCOVA, medan Aube et al. (5) brukte éinvegs variansanalyse og ei blanda modellanalyse.
+
+Tre av studiane (2,3,5) oppgav ikkje at dei gjennomførte styrkebereknig (power calculation). Vi kan difor ikkje seie noko om studiane hadde eit stort nok utval for å unngå type I- og type II feil. Med andre ord kan vi ikkje seie noko om sannsynet for at resultata i studiane er falsk positiv eller falsk negativ, noko som er ein svakheit med metoden. Schoenfeld et al. (4) gjennomførte ei styrkeberekning som tilsa at dei trengde 36 deltakarar. Som følgje av to fråfall, endte dei opp med kun 34 deltakarar, noko som kan ha svekka resultatet.
+
+**Tilrådingar for framtidige studiar**
+
+Slik eg ser det, bør framtidige studiar følgje det same randomiserte, parallellegruppe-designet som dei fem studiane følgde, men med eit par justeringar. For det første bør ein blinde dei som testar testdeltakarane for å hindre bias. Vidare meiner eg at ein bør bruke dei mest anerkjende testbatteria ein har tilgang til. Slik eg ser det, bør ein bruke dynamometer framfor frivekter for å teste styrke, og MRI framfor ultralyd for å teste muskelmasse. Framtidige studiar bør også syta for å rettferdiggjere utvalsstorleiken ved å bruke styrkeberekning for å minimere risikoen for type I- og type II-feil. Det kan kanskje også vere fordelaktig å nytte lenger intervensjonsperiodar i framtida, til dømes 6 månadar, for å redusere risikoen for at tilfeldigheitar verkar inn på resultatet.
+
+**Bibliografi**
+
+1.         Brigatto FA, Lima LEDM, Germano MD, Aoki MS, Braz TV, Lopes CR. High Resistance-Training Volume Enhances Muscle Thickness in Resistance-Trained Men. J Strength Cond Res. januar 2022;36(1):22--30.
+
+2.         Ostrowski KJ, Wilson GJ, Weatherby R, Murphy PW, Lyttle AD. The Effect of Weight Training Volume on Hormonal Output and Muscular Size and Function. J Strength Cond Res. august 1997;11(3):148.
+
+3.         Rhea MR, Alvar BA, Ball SD, Burkett LN. Three sets of weight training superior to 1 set with equal intensity for eliciting strength. J Strength Cond Res. november 2002;16(4):525--9.
+
+4.         SCHOENFELD BJ, CONTRERAS B, KRIEGER J, GRGIC J, DELCASTILLO K, BELLIARD R, mfl. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. januar 2019;51(1):94--103.
+
+5.         Aube D, Wadhi T, Rauch J, Anand A, Barakat C, Pearson J, mfl. Progressive Resistance Training Volume: Effects on Muscle Thickness, Mass, and Strength Adaptations in Resistance-Trained Individuals. J Strength Cond Res. mars 2022;36(3):600.
+
+6.         Hulley SB, Cummings SR, Browner WS, Grady DG, Newman TB. Designing clinical research. 4th edition. Philadelphia Baltimore New York London Buenos Aires Hong Kong Sydney Tokyo: Wolters Kluwer, Lippincott Williams & Wilkins; 2013. 367 s.
+
+7.         Landi F, Calvani R, Martone AM, Salini S, Zazzara MB, Candeloro M, mfl. Normative values of muscle strength across ages in a \'real world\' population: results from the longevity check‐up 7+ project. J Cachexia Sarcopenia Muscle. desember 2020;11(6):1562--9.
+
+8.         Holloszy JO. The Biology of Aging. Mayo Clin Proc. 1. januar 2000;75(1, Supplement):S3--9.
+
+9.         Krzysztofik M, Wilk M, Wojdała G, Gołaś A. Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Training Techniques and Methods. Int J Environ Res Public Health. januar 2019;16(24):4897.
+
+10.       Parraca JA, Adsuar JC, Domínguez-Muñoz FJ, Barrios-Fernandez S, Tomas-Carus P. Test-Retest Reliability of Isokinetic Strength Measurements in Lower Limbs in Elderly. Biology. 24. mai 2022;11(6):802.
+
+11.       Najiah WN, Lee ELY, Malek NFA, Malik ZA, Chan EWM, Ghazali N, mfl. Relationship between Leg Dynamometer with Squat and Deadlift 1RM Score among University Athletes. J Phys Conf Ser. 1. mai 2021;1874(1):012089.
+
+12.       Stokes T, Tripp TR, Murphy K, Morton RW, Oikawa SY, Lam Choi H, mfl. Methodological considerations for and validation of the ultrasonographic determination of human skeletal muscle hypertrophy and atrophy. Physiol Rep. 6. januar 2021;9(1):e14683.
